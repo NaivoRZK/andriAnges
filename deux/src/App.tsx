@@ -10,15 +10,22 @@ function App() {
   return (
     <>
       <section id="center">
+        <h1 style={{ fontSize: '3.5rem', color: '#ff4d6d', marginBottom: '0.5rem', textAlign: 'center' }}>
+          Je t'aime Angeline ❤️
+        </h1>
+        <p style={{ fontSize: '1.2rem', color: '#ffb3c1', marginBottom: '2rem', textAlign: 'center' }}>
+          Bienvenue sur notre projet collaboratif !
+        </p>
+
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
           <img src={reactLogo} className="framework" alt="React logo" />
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Get started</h1>
+          <h2>Get started</h2>
           <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
+            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
         </div>
         <button
