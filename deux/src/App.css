@@ -1,3 +1,6 @@
+body {
+  background-color: rgb(245, 223, 197) 
+}
 .counter {
   font-size: 16px;
   padding: 5px 10px;
