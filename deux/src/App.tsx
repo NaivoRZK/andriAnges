@@ -11,7 +11,7 @@ function App() {
     <>
       <section id="center">
         <h1 style={{ fontSize: '3.5rem', color: '#FF0000', marginBottom: '0.5rem', textAlign: 'center' }}>
-          Je t'aime Angeline ❤️
+          Andry de mon coeur  ❤️
         </h1>
         <p style={{ fontSize: '1.2rem', color: '#c26920', marginBottom: '2rem', textAlign: 'center' }}>
           Bienvenue sur notre projet collaboratif !
